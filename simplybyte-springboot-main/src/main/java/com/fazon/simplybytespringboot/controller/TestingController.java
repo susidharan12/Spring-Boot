@@ -10,7 +10,7 @@ public class TestingController {
 
     @GetMapping
     public String health() {
-    return "New Created with pipeline checking";
+    return "For checking the implementation";
     }
 
 }
